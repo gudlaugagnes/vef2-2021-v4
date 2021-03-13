@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-expressions */
+/* eslint-disable import/no-unresolved */
 /* eslint-disable no-console */
 // TODO útfæra proxy virkni
 import fetch from 'node-fetch';
